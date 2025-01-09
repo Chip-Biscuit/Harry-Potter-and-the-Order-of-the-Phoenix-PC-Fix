@@ -1,4 +1,4 @@
-# hp-order-of-the-phoenix-fix
+# Harry-Potter-and-the-Order-of-the-Phoenix-PC-Fix
 
 Please see this youtube video for an in depth tutorial on the fix                                                                              
 
