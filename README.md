@@ -1,37 +1,14 @@
-# Harry-Potter-and-the-Order-of-the-Phoenix-PC-Fix
+# Requirements before using fix
+IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD BEFORE USING THE FIX.
 
-Please see this youtube video for an in depth tutorial on the fix                                                                              
+Watch the official fix guide video here on how to install the game and use the fix - https://www.youtube.com/watch?v=VeZ-Envz9ME&t=58s
 
-IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD
+# Instructions
+You must launch the game once before you use this fix. You will either need to start a new game or continue a save file and go to the video settings and make sure your resolution is 640 x 480 in order for the d3d9.dll file to work.
 
-https://www.youtube.com/watch?v=VeZ-Envz9ME&t=58s
+Go to releases, download the Harry Potter and the Order of the Phoenix Fix that fits the requirements you need, then extract the d3d9.dll, d3d9.ini and the fps.dll files into your game folder next to the hp.exe file and you are good to go! You can edit the settings you wish to use in the d3d9.ini file.
 
-Make sure you launch the game one time before you use this fix, go to new game or continue game, go to video and make sure your resolution is 640 x 480 for the d3d9.dll to work 
+# Resolution/Aspect Ratio
+The default for resolution is set to (1920 x 1080). Put the resolution that you wish to use in both Width and Height. If you boot up the game after setting the resolution you want in the d3d9.ini file and the resolution has not changed automatically then go to the video options menu in game and select your resolution from in there.
 
-simply go to releases download hpootpfix120fps.zip or hpootpfix60fps.zip depending on which fps you wish the game to run at put the d3d9.dll and d3d9.ini and fps.dll into your game folder next to the game exe and your good to go 
-
-choose your release (60fps or 120fps). If your monitor is 60hz choose 60fps. If your monitor is 120hz or more choose 120fps. leave v-sync on on your pc and leave the fps at its value.
-
-you can edit settings in d3d9.ini 
-
-Default for resolution is 2 (1920 x 1080) 
-
-Default for aspect ratio is 0 which is (16:9)
-
-The game will start with the origional FOV and you can toggle it to the FOV you select here by pressing the hotkey "9" on your keyboard (not the numpad) and it will toggle between origional and the value in the ini that you choose to zoom out to.
-
-the three folders with (noFOVtoggle) are the same as the others but you wont have a toggle for FOV in game you will just choose which fov you want in d3d9.ini and it will always be that FOV anytime you open the game
-
-If you have any issues please go to discord for help 
-
-https://discord.gg/eVJ7sQH7Cc
-
-brought to you by Fix Enhancers 
-
-https://fixenhancers.wixsite.com/fix-enhancers
-
-Team: 
-
-Chip, JokerAlex21, Blankname.
-
-credit to Elisha Riedlinger for the base wrapper and 13 AG.
+The default for aspect ratio is (0) which is (16:9). Choose the aspect ratio that is correct for you from the selection within the d3d9.ini file and replace (0) with the number correct for you.
