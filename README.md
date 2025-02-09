@@ -21,6 +21,9 @@ Choose one of the releases of either (60fps or 120fps) to use. If your monitor i
 # FOV
 You can choose in the d3d9.ini file of either 1, 2 or 3 each will zoom the FOV/camera in the game out slightly more. Choose which option you want to use and it will be reflected in the game, 0 is off or original game cameras zoom FOV.
 
+# Vote to see the game return via GOG Dreamlist
+If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/harry-potter-and-the-order-of-the-phoenix-2007
+
 # Issues/Problems
 If you have any issues, with the fixes then please go to discord for help linked below. https://discord.gg/eVJ7sQH7Cc
 
