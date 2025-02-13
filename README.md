@@ -1,5 +1,7 @@
 # Harry Potter and the Order of the Phoenix PC Fix
 
+![hp5](https://github.com/user-attachments/assets/d18c2a80-bd34-463b-b372-4d20f4a19b30)
+
 # Requirements before using fix
 IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD BEFORE USING THE FIX.
 
