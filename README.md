@@ -4,7 +4,7 @@
 
 ***created and maintained by***
 
-[![Chip Website](https://img.shields.io/badge/Chip%20Biscuit-https%3A%2F%2Fchip--biscuit.github.io-?style=for-the-badge&logo=github&logoColor=white&colorA=%23FF2CA5&colorB=%2300C8FF)](https://chip-biscuit.github.io/)
+[![Chip-Biscuit Website](https://img.shields.io/badge/Chip--Biscuit-Website-blue?style=for-the-badge)](https://chip-biscuit.github.io/)
 
 Reverse Engineering • Programming • Patching • Game Improvements • DLL Creation 
 
