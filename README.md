@@ -1,3 +1,11 @@
+<div align="center">
+
+# 🎮 Game Specific Patches  
+### Created & Maintained by **[Chip-Biscuit](https://chip-biscuit.github.io/)**
+Reverse Engineering • Programming • Patching • Game Improvements  
+
+</div>
+
 # Harry Potter and the Order of the Phoenix PC Fix
 
 ![hp5](https://github.com/user-attachments/assets/d18c2a80-bd34-463b-b372-4d20f4a19b30)
